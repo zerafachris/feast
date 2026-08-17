@@ -29,6 +29,8 @@ dask[dataframe]==2025.2.0
     # via feast (setup.py)
 dill==0.3.9
     # via feast (setup.py)
+exceptiongroup==1.2.2
+    # manually
 fastapi==0.115.11
     # via feast (setup.py)
 fsspec==2025.2.0
