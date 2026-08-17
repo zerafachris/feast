@@ -207,6 +207,8 @@ environs==9.5.0
     # via pymilvus
 et-xmlfile==2.0.0
     # via openpyxl
+exceptiongroup==1.2.2
+    # manually
 execnet==2.1.1
     # via pytest-xdist
 executing==2.2.0
